@@ -16,8 +16,10 @@ The primary objective of this script is to provide a lightweight and efficient m
 ### Tools Used
 
 - **Bash:** The primary scripting language used to automate the IP sweeping process.
-- **ping:** A network utility used to test the reachability of hosts on a network and measure round-trip time for messages sent to the destination host.
 - **grep:** A command-line utility for searching plain-text data sets for lines that match a regular expression, used to filter ping results.
+- **tr:** A command for translating or deleting characters.
+- **cat:** This allows me to create single or multiple files, view the file containing it, concatenate the files, and redirect output to the terminal or files.
+- **cut**: Used to extract sections from each line of input - usually from a file.
 - **echo:** Used within the script to output text and results to the terminal and files.
 - **text editor:** Such as Vim, Nano, or any preferred editor for writing and editing the bash script.
 - **Linux/Unix Environment:** The script is designed to be executed in a Linux or Unix-based operating system.
